@@ -1,8 +1,8 @@
 If you want to know the latest news from time.com, this is the right place to have the look.
 
 Follow these steps:
-1. Install all the dependencies 
-$ npm i
+1. Install all the dependencies
+2. $ npm i
 
 2. Run the code
 $ npm run start / $ node app.js
